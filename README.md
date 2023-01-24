@@ -1,4 +1,5 @@
 # calculator
+Projeto de calculadora com vue.js
 
 ## Project setup
 ```
